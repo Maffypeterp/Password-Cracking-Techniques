@@ -50,7 +50,7 @@ This screenshot shows the file name hashed_john.txt01 contains a list of hashed 
 
 4. Crack the hashed passwords with John the Ripper, and John will attempt to match the hashes with the provided passwords.
 
-* Ref 4.
+* Ref 4.[ Crack passwords](https://github.com/Maffypeterp/Password-Cracking-Techniques/blob/main/Screenshot%202025-07-22%20120708.png)
 
 5. Once John finishes view the cracked passwords.
 
