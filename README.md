@@ -27,6 +27,15 @@ Password cracking is the process of recovering or guessing a password in order t
 
 *** Cracking Tools: Using John, Hashcat, with wordlists 
 
+***Method: Dictionary attack, Bruteforce attack, Hybrid
+
+### Tool Execution
+
+-*John the Ripper: john --wordlist=passwords.txt hashes_john.txt01
+
+-*Hashcat : hashcat -m 1800 -a 0  cracked_passwords.txt hashes_hashcat.txt passwords.txt
+
+
 
 ### Steps
 
