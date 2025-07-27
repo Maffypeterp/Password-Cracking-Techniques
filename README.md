@@ -36,7 +36,7 @@ Below are the key steps taken in the Password cracking technique:
 
 This screenshot shows the file name password.txt contains sample passwords.
 
-* Ref 1. Sample Passwords
+* Ref 1. [Sample Passwords](https://github.com/Maffypeterp/Password-Cracking-Techniques/blob/main/Screenshot%202025-07-22%20121214.png)
 
 2. Use openssl to hash the password in MD5 format
  
