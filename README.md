@@ -62,6 +62,6 @@ This screenshot dispalys the cracked passwords
 
 This screenshot shows the final cracking password report
 
-* Ref 6.
+* Ref 6. [Report]
 
 
