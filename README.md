@@ -21,7 +21,7 @@ Password cracking is the process of recovering or guessing a password in order t
 
 *** Type: Offline password cracker
 
-*** Platform: Kali Linux
+*** Platform: Kali Linux2023.2
 
 *** File Type: Password Lists
 
@@ -71,6 +71,6 @@ This screenshot dispalys the cracked passwords
 
 This screenshot shows the final cracking password report
 
-* Ref 6. [Report]
+* Ref 6. [Report](https://github.com/Maffypeterp/Password-Cracking-Techniques/blob/main/Report.pdf)
 
 
