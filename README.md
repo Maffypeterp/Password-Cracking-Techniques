@@ -42,9 +42,11 @@ This screenshot shows the file name password.txt contains sample passwords.
  
 * Ref 2.
 
-3. The file named hashed_password.txt will contain the MD5 hashes of sample passwords and prepare hashes in a format hashes_john.txt
+3. The file named hashed_password.txt will contain the MD5 hashes of sample passwords and prepare hashes in a format hashes_john.txt01
 
-* Ref 3.
+This screenshot shows the file name hashed_john.txt01 contains a list of hashed passwords
+
+* Ref 3.[Hashed password]( https://github.com/Maffypeterp/Password-Cracking-Techniques/blob/main/Screenshot%202025-07-22%20121335.png)
 
 4. Crack the hashed passwords with John the Ripper, and John will attempt to match the hashes with the provided passwords.
 
